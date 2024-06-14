@@ -1,0 +1,33 @@
+[
+    {
+      "ReviewerName": "John",
+      "ReviewTitle": "Amazing Product",
+      "Review": "This product exceeded my expectations in every way possible!",
+      "ReviewRating": 5
+    },
+    {
+      "ReviewerName": "Sarah",
+      "ReviewTitle": "Good Quality",
+      "Review": "Very pleased with the quality, but the shipping was slower than expected.",
+      "ReviewRating": 4
+    },
+    {
+      "ReviewerName": "Alex",
+      "ReviewTitle": "Not Worth It",
+      "Review": "The product does not work as advertised and feels cheaply made.",
+      "ReviewRating": 1
+    },
+    {
+      "ReviewerName": "Diane",
+      "ReviewTitle": "Pretty Decent",
+      "Review": "Overall, it's a decent product for the price, but there are better options available.",
+      "ReviewRating": 3
+    },
+    {
+      "ReviewerName": "Michael",
+      "ReviewTitle": "Fantastic Service",
+      "Review": "The customer service was fantastic, and they resolved my issue quickly.",
+      "ReviewRating": 4
+    }
+  ]
+  

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084813227333",
+    "project_id": "deepmusic-app",
+    "storage_bucket": "deepmusic-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084813227333:android:8a9d6b3a743c7ea32cfa2c",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtS66gNxz6D0WffcOeJPZcpf3q4bCy3TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
